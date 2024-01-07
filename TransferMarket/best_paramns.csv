@@ -1,0 +1,14 @@
+,LinearRegression,Ridge,Lasso,ElasticNet,HuberRegressor,SVR,DecisionTreeRegressor,RandomForestRegressor,GradientBoostingRegressor,MLPRegressor,XGBRegressor,LGBMRegressor
+model,LinearRegression(),Ridge(),Lasso(),ElasticNet(),HuberRegressor(),SVR(),DecisionTreeRegressor(),RandomForestRegressor(),GradientBoostingRegressor(),MLPRegressor(),"XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=None, n_jobs=None,
+             num_parallel_tree=None, random_state=None, ...)",LGBMRegressor()
+best_param,{},{'alpha': 10.0},{'alpha': 50.0},"{'alpha': 0.1, 'l1_ratio': 0.75}",{'epsilon': 2.5},"{'C': 10000, 'kernel': 'linear'}",{'max_depth': 10},{'n_estimators': 200},"{'learning_rate': 0.1, 'n_estimators': 200}","{'activation': 'relu', 'hidden_layer_sizes': (50, 50)}","{'learning_rate': 0.1, 'n_estimators': 200}","{'learning_rate': 0.1, 'n_estimators': 200}"
+best_score,166535335997.48932,10503497.927201709,12486845.210728519,10992387.625252651,12986960.388138598,14374119.213379301,12625202.498024302,9374835.888671556,8785078.360955596,15814397.499228358,8857833.79580634,8782069.32356388

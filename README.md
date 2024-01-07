@@ -1,2 +1,3 @@
-# Kaggle
-Repositório com uma coleção de projetos em ciência de dados,
+# Repositório de Projetos do Kaggle: Explorando Ciência de Dados e Aprendizado de Máquina
+
+Este repositório apresenta projetos de ciência de dados, abordando desafios complexos da preparação à implementação de modelos avançados. Explore casos práticos para entender estratégias na solução de problemas do mundo real. Convidamos você a mergulhar nesses projetos para descobrir insights valiosos sobre aprendizado de máquina.
